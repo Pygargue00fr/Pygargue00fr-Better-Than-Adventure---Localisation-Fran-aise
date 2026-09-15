@@ -1,0 +1,17 @@
+command.aether.add.extra_health.success_single_entity=Ajouter %s points de vie supplémentaires à %s
+command.aether.set.extra_health.success_single_entity=Définir %s points de vie supplémentaires à %s
+command.aether.get.extra_health.success_single_entity=les points de vie supplémentaires de %s sont %s
+# for @a
+command.aether.add.extra_health.success_multiple_entities=Ajout de %s de points de vie supplémentaires aux joueurs
+command.aether.set.extra_health.success_multiple_entities=Augmenter les points de vie supplémentaires des joueurs à %s
+command.aether.get.extra_health.success_multiple_entities=Les points de vie supplémentaires collectifs des joueurs sont de %s
+
+command.aether.effects.add.poison.success_single_entity=Ajouter %s à %s.
+command.aether.effects.add.poison.success_multiple_entity=Ajouter %s aux entités %s.
+
+command.aether.effects.add.remedy.success_single_entity=Ajouter %s à %s.
+command.aether.effects.add.remedy.success_multiple_entity=Ajouter %s aux entités %s.
+
+command.aether.effects.clear.success_single_entity=Effacer tous les effets de %s.
+command.aether.effects.clear.success_multiple_entity=Effacer tous les effets des entités %s.
+

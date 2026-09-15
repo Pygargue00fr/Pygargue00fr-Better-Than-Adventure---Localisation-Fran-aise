@@ -1,0 +1,64 @@
+messages.player_joined=%s a rejoint la partie.
+messages.player_left=%s a quitté la partie.
+messages.player_kicked=%s a quitté la partie.
+
+messages.illegal_characters=[SERVEUR] Caractères interdits dans le message de chat.
+
+messages.sleep.succeed=%s est partit se glisser dans les toiles, faites de beaux rêves !
+messages.sleep.enter_bed=%s s'est alongé sur son lit.
+messages.sleep.exit_bed=%s est sorti de son lit.
+messages.sleep.more_required=Il faut encore %s joueurs endormis pour passer la nuit
+messages.sleep.more_required.singular=Encore %s joueur sommeillant nécessaire pour passer la nuit.
+
+messages.bed.occupied=Ce lit est occupé.
+messages.bed.noSleep=Vous ne pouvez vous assoupir que durant la nuit ou les orages.
+messages.bed.setSpawn=Point de réapparition défini.
+messages.bed.notValid=Votre lit est manquant ou obstrué.
+messages.bed.noAllowSleeping=Dormir est désactivé.
+messages.bed.unsafeToSleep=C'est trop dangereux de dormir ici.
+
+messages.wand.wrongmode=Vous devez être en mode Créatif pour utiliser cet objet !
+
+messages.flag.full=Vous avez trop de drapeaux sur cette carte !
+messages.flag.overwrite=Impossible de superposer un patron de drapeau.
+messages.flag.copied=Patron de drapeau copié.
+
+messages.death.mob.generic=%s a périt.
+messages.death.mob.lava=%s a essayé de nager dans la lave.
+messages.death.mob.acid=%s a baigné dans du vitriol.
+messages.death.mob.spikes=%s s'est fait(e) empalé(e).
+messages.death.mob.fall=%s s'est(e) cassé(e) les jambes.
+messages.death.mob.drowned=%s a suffoqué.
+messages.death.mob.fire=%s a été incinéré.
+messages.death.mob.killed_by=%s a été tué par %s.
+
+messages.death.player.generic=%s est mort(e) mystérieusement.
+messages.death.player.lava=%s est tombé(e) dans la sauce.
+messages.death.player.acid=%s a fondu dans une substance corrosive.
+messages.death.player.spikes=%s est tombé(e) dans le piège.
+messages.death.player.fall=%s a oublié de nouer ses lacets.
+messages.death.player.drowned=%s nage avec les poissons.
+messages.death.player.fire=%s a été cuit bien comme il faut.
+messages.death.player.tnt=%s a été tué par Popbob.
+messages.death.player.lightning=%s à été puni.
+messages.death.player.herobrine=%s a été tué par Herobrine.
+messages.death.player.killed_by=%s à été trahi par %s.
+messages.death.player.killed_by.zombie=%s a été transformé en zombie.
+messages.death.player.killed_by.zombie_pig=%s a découvert la mentalité des créatures.
+messages.death.player.killed_by.creeper=%s n'avait pas vu le creeper.
+messages.death.player.killed_by.skeleton=%s a été victime d'un aimbot.
+messages.death.player.killed_by.spider=%s a surfé trop longtemps sur la toile.
+messages.death.player.killed_by.ghast=%s n'as pas donné le change.
+messages.death.player.killed_by.slime=%s s'est fait(e) englué(e) vivant(e).
+messages.death.player.killed_by.wolf=%s a eu ce qu'il / elle méritait !
+messages.death.player.killed_by.giant=%s a été tué par- attendez, quoi ?!
+messages.death.player.killed_by.pig=%s est *vraiment* mauvais a Minecraft.
+messages.death.player.killed_by.arrow=%s est un aimant à flêches.
+messages.death.player.killed_by.arrow_player=%s s'est fait(e) descendre par %s.
+messages.death.player.killed_by.arrow_suicide=%s a perdu une partie de roulette russe.
+messages.death.player.killed_by.arrow_golden=%s a été transformé en gruyère.
+messages.death.player.killed_by.arrow_golden_player=%s s'est fait(e) percer par %s.
+messages.death.player.killed_by.arrow_golden_suicide=%s a de l'or dans les yeux.
+messages.death.player.killed_by.cannonball=%s s'est fait(e) bombardé(e) a distance.
+messages.death.player.killed_by.cannonball_player=%s a été fragmenté par %s.
+messages.death.player.killed_by.cannonball_suicide=%s a sauté de trop haut.

@@ -1,0 +1,12 @@
+world_settings.values.on=oui
+world_settings.values.off=non
+
+world_settings.world_height.bottom.name=Hauteur du monde en bas
+world_settings.world_height.ocean.name=Hauteur des océans
+world_settings.world_height.top.name=Hauteur du monde au sommet
+world_settings.single_season.enabled.name=Saison unique
+world_settings.single_season.value.name=
+world_settings.starting_biome.enabled.name=Biome de départ
+world_settings.starting_biome.value.name=
+world_settings.single_biome.enabled.name=Biome unique
+world_settings.single_biome.value.name=

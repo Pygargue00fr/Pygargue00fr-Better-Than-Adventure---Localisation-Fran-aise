@@ -1,0 +1,66 @@
+aether.name=Aether
+achievements.page.aether.desc=Succès de l'Éther.
+
+achievement.aether.hostile_paradise=Paradis hostile
+achievement.aether.hostile_paradise.desc=Atteignez l'Éther.
+
+achievement.aether.poison=S'enivrer la trogne
+achievement.aether.poison.desc=Se faire empoisonner.
+achievement.aether.remedy=Remède universel
+achievement.aether.remedy.desc=Soigne ton poison.
+
+achievement.aether.shooter=En joue
+achievement.aether.shooter.desc=Fabriquer une sarbacane.
+achievement.aether.zephyr=Sniper c'est mon truc, mec !
+achievement.aether.zephyr.desc=Abattez un zéphyr avec des fléchettes.
+
+achievement.aether.bounce=À l'infini et au-delà!
+achievement.aether.bounce.desc=Rebondissez sur un aéro-nuage bleu.
+achievement.aether.gold_cloud=Doux comme un coussin
+achievement.aether.gold_cloud.desc=Récupérez un aéro-nuage en or .
+achievement.aether.parachute=Parachutiste
+achievement.aether.parachute.desc=Utiliser un parachute nuageux.
+
+achievement.aether.phyg=Quand les cochons éthériques voleront
+achievement.aether.phyg.desc=Volez sur le dos d'un cochon éthérique.
+achievement.aether.moa=Maintenant, vous faites partie de la famille
+achievement.aether.moa.desc=Incubez un moa géant.
+
+achievement.aether.enchanter=Croyez-vous en la magie ?
+achievement.aether.enchanter.desc=Fabriquer un enchanteur.
+
+achievement.aether.sentry_deployed=Sentinelle déployée
+achievement.aether.sentry_deployed.desc=Marchez sur un piège de sentinelle.
+achievement.aether.bronze=Qui est-ce qui commande !?
+achievement.aether.bronze.desc=Vaincre le boss du donjon de bronze.
+
+achievement.aether.its_a_trap=C'est un piège !
+achievement.aether.its_a_trap.desc=Tombez dans le piège d'un imitateur.
+achievement.aether.silver=Détrôné 
+achievement.aether.silver.desc=Vaincre le boss du donjon d'argent.
+
+achievement.aether.ice_deflect=Retour à l'envoyeur
+achievement.aether.ice_deflect.desc=Frapper l'Esprit du Soleil avec un tir dévié.
+achievement.aether.gold=Étouffer la flamme
+achievement.aether.gold.desc=Vaincre le boss du donjon d'or.
+
+achievement.aether.skyroot=Une nouvelle bonne pioche !
+achievement.aether.skyroot.desc=Utiliser des planches et des bâtons éthérés pour fabriquer une pioche.
+achievement.aether.ambrosium=Le met des Dieux
+achievement.aether.ambrosium.desc=Mangez un morceau d'ambroisium.
+achievement.aether.healing_stone=Nourriture magique
+achievement.aether.healing_stone.desc=Fabriquez une pierre de guérison.
+achievement.aether.gravitite=Le rose est le nouveau bleu
+achievement.aether.gravitite.desc=Fabriquer un outil de gravitite.
+
+achievement.aether.all_music_discs=Collectionneur de disques éthériques
+achievement.aether.all_music_discs.desc=Collectionner tous les disques de musique de l'Éther.
+
+achievement.aether.all_accessory_types=Le maître de rien
+achievement.aether.all_accessory_types.desc=Porter un accessoire dans chaque emplacement.
+
+achievement.aether.max_life=Vivre à fond
+achievement.aether.max_life.desc=Augmentez votre santé au maximum
+
+achievement.aether.weve_got_hostiles=Nous Sommes Menacés !
+achievement.aether.weve_got_hostiles.desc=Trouver un donjon.

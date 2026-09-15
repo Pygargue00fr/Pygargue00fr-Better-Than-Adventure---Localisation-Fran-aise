@@ -1,0 +1,31 @@
+entity.foolmod.fool=Le corniaud
+subtitles.foolmod.fool.idle=Le corniaud ricane
+subtitles.foolmod.fool.hit=Le corniaud attaque
+# halplibe namespaces item keys, so these are item.<modid>.<name>.name -- not the bare
+# item.<name>.name that vanilla BTA uses for its own items.
+# Joxe Dust is a BLOCK now, so its item is keyed tile.* rather than item.* — placing it was what
+# changed the key and broke the name.
+tile.foolmod.joxe_dust.name=Poudre de perlimpinpin
+tile.foolmod.joxe_dust.desc=Poudre de foire. Tracez un cercle fermé au sol — vos murs peuvent en tenir lieu pour une partie — et le corniaud n'y mettra pas les pieds.
+tile.foolmod.fools_gold_block.name=Bloc d'or des fous
+tile.foolmod.fools_gold_block.desc=Neuf lingots, empilés. Ça ne vaut absolument rien.
+item.foolmod.fools_gold_ingot.name=Lingo d'or des fous
+item.foolmod.fools_gold_ingot.desc=Ne vaut rien et sert à tout.
+item.foolmod.fools_gold_pickaxe.name=Pioche en or des fous
+item.foolmod.fools_gold_pickaxe.desc=Casse tout aussi bien que le diamant, à son propre rythme, sans se presser.
+item.foolmod.fools_gold_axe.name=Hache en or des fous
+item.foolmod.fools_gold_axe.desc=Coupe tout aussi bien que le diamant, à son propre rythme, sans se presser.
+item.foolmod.fools_gold_shovel.name=Pelle en or des fous
+item.foolmod.fools_gold_shovel.desc=Coupe tout aussi bien que le diamant, à son propre rythme, sans se presser.
+item.foolmod.fools_gold_hoe.name=Houe en or des fous
+item.foolmod.fools_gold_hoe.desc=Laboure tout aussi bien que le diamant, à son propre rythme, sans se presser.
+item.foolmod.fools_gold_sword.name=Épée en or des fous
+item.foolmod.fools_gold_sword.desc=Criarde, et plus incisif qu'elle n'a le droit de l'être.
+item.foolmod.fools_gold_helmet.name=Casque en or des fous
+item.foolmod.fools_gold_helmet.desc=Habit bigarré porté en guise d'armure.
+item.foolmod.fools_gold_chestplate.name=Plastron en or des fous
+item.foolmod.fools_gold_chestplate.desc=Habit bigarré porté en guise d'armure.
+item.foolmod.fools_gold_leggings.name=Jambières en or des fous
+item.foolmod.fools_gold_leggings.desc=Habit bigarré porté en guise d'armure.
+item.foolmod.fools_gold_boots.name=Bottes en or des fous
+item.foolmod.fools_gold_boots.desc=Tatanes bigarrés portées en guise d'armure.

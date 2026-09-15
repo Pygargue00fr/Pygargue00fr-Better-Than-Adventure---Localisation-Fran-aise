@@ -1,0 +1,392 @@
+# Outils
+item.aether.tool.dungeon_compass.name=Boussole de dongeon
+item.aether.tool.dungeon_compass.desc=Indique la direction vers quelque chose d'encore inconnu..
+
+# Pioches
+item.aether.tool.pickaxe.skyroot.name=Pioche en bois éthéré
+item.aether.tool.pickaxe.skyroot.desc=Brisez des pierres sacrées avec cet outil en bois éthéré.
+item.aether.tool.pickaxe.holystone.name=Pioche en pierre sacrée
+item.aether.tool.pickaxe.holystone.desc=Brisez des pierres sacrées avec cet outil en pierres sacrées.
+item.aether.tool.pickaxe.zanite.name=Pioche en zanite
+item.aether.tool.pickaxe.zanite.desc=Brisez des pierres sacrées avec cet outil en zanite.
+item.aether.tool.pickaxe.gravitite.name=Pioche en gravitite
+item.aether.tool.pickaxe.gravitite.desc=Brisez des pierres sacrées avec cet outil en gravitite défiant la gravité.
+item.aether.tool.pickaxe.valkyrie.name=Pioche de valkyrie
+item.aether.tool.pickaxe.valkyrie.desc=Brisez des pierres sacrées avec cet outil de valkyrie angélique.
+
+# Pelles
+item.aether.tool.shovel.skyroot.name=Pelle en bois éthéré
+item.aether.tool.shovel.skyroot.desc=Creusez la terre de l'éther avec cet outil en bois éthéré.
+item.aether.tool.shovel.holystone.name=Pelle en pierre sacrée
+item.aether.tool.shovel.holystone.desc=Creusez la terre de l'éther avec cet outil en pierres sacrées.
+item.aether.tool.shovel.zanite.name=Pelle en zanite
+item.aether.tool.shovel.zanite.desc=Creusez la terre de l'éther avec cet outil en zanite.
+item.aether.tool.shovel.gravitite.name=Pelle en gravitite
+item.aether.tool.shovel.gravitite.desc=Creusez la terre de l'éther avec cet outil en gravitite défiant la gravité.
+item.aether.tool.shovel.valkyrie.name=Pelle de valkyrie
+item.aether.tool.shovel.valkyrie.desc=Creusez la terre de l'éther avec cet outil de valkyrie angélique.
+
+# Haches
+item.aether.tool.axe.skyroot.name=Hache en bois éthéré
+item.aether.tool.axe.skyroot.desc=Coupez des arbres avec cet outil en bois éthéré.
+item.aether.tool.axe.holystone.name=Hache en pierre sacrée
+item.aether.tool.axe.holystone.desc=Coupez des arbres avec cet outil en pierre sacrée.
+item.aether.tool.axe.zanite.name=Hache en zanite
+item.aether.tool.axe.zanite.desc=Coupez des arbres avec cet outil en zanite.
+item.aether.tool.axe.gravitite.name=Hache en gravitite
+item.aether.tool.axe.gravitite.desc=Coupez des arbres avec cet outil en gravitite défiant la gravité.
+item.aether.tool.axe.valkyrie.name=Hache de valkyrie
+item.aether.tool.axe.valkyrie.desc=Coupez des arbres avec cet outil de valkyrie angélique.
+
+# Épées
+item.aether.tool.sword.skyroot.name=Épée en bois éthéré
+item.aether.tool.sword.skyroot.desc=Tuez des boss géants avec cette lame en bois émoussée.
+item.aether.tool.sword.holystone.name=Épée en pierre sacrée
+item.aether.tool.sword.holystone.desc=Tuez des boss géants avec cette lame en pierre sacrée tranchante.
+item.aether.tool.sword.zanite.name=Épée en zanite
+item.aether.tool.sword.zanite.desc=Tuez des boss géants avec cette lame en zanite tranchante.
+item.aether.tool.sword.gravitite.name=Épée en gravitite
+item.aether.tool.sword.gravitite.desc=Tuez des boss géants avec cette lame en gravitite tranchante.
+item.aether.tool.sword.valkyrie.name=Lance de valkyrie
+item.aether.tool.sword.valkyrie.desc=Tuez vos ennemis les plus redoutables à distance grâce à cette lance de valkyrie angélique.
+
+# Armes spéciales
+item.aether.tool.sword.pig.name=Pourfendeur de porc
+item.aether.tool.sword.pig.desc=Dague magique qui élimine les créatures porcines en un seul coup.
+item.aether.tool.sword.vampire.name=Lame vampirique
+item.aether.tool.sword.vampire.desc=Épée vampirique qui draine la santé des ennemis, vous en octroyant une juste part.
+item.aether.tool.sword.flame.name=Épée flamboyante
+item.aether.tool.sword.flame.desc=Une lame élémentaire imprégnée du pouvoir du feu.
+item.aether.tool.sword.holy.name=Épée bénite
+item.aether.tool.sword.holy.desc=Une lame élémentaire imprégnée du pouvoir de la lumière.
+item.aether.tool.sword.lightning.name=Épée éléctrisante
+item.aether.tool.sword.lightning.desc=Une lame élémentaire imprégnée du pouvoir de l'électricité.
+
+# Staves
+item.aether.tool.staff.nature.name=Baguette de mère nature
+item.aether.tool.staff.nature.desc=Permet au porteur de contrôler totalement n'importe quelle créature.
+item.aether.tool.staff.cloud.name=Baguette d'invocation nuageuse
+item.aether.tool.staff.cloud.desc=Invoquez deux mini zéphyrs pour aider à vous défendre.
+
+# Armes à distance et munitions
+item.aether.tool.knife.lightning.name=Couteau électrisant
+item.aether.tool.knife.lightning.desc=Dague de jet qui frappe l'ennemi avec un éclair.
+item.aether.tool.hammer.notch.name=Marteau de Notch
+item.aether.tool.hammer.notch.desc=Marteau légendaire doté d'une attaque spéciale contre les groupes d'ennemis.
+item.aether.ammo.hammer.head.name=Tête du marteau
+item.aether.ammo.hammer.head.desc=Projectile lancé par le marteau de Notch.
+item.aether.tool.bow.phoenix.name=Arc du phénix
+item.aether.tool.bow.phoenix.desc=Une arme pour tirer des flèches enflammées en rafale.
+item.aether.tool.shooter.name=Sarbacane
+item.aether.tool.shooter.desc=Une arme pour tirer des fléchettes en rafale.
+item.aether.ammo.dart.golden.name=Flêchètte en or
+item.aether.ammo.dart.golden.desc=Un projectile à pointe d'or pour sarbacane.
+item.aether.ammo.dart.poison.name=Flêchètte empoisonnée
+item.aether.ammo.dart.poison.desc=Un projectile empoisonné pour sarbacane.
+item.aether.ammo.dart.enchanted.name=Flêchette enchantée
+item.aether.ammo.dart.enchanted.desc=Un projectile enchanté pour sarbacane.
+item.aether.ammo.arrow.flaming.name=Flèche flamboyante
+item.aether.ammo.arrow.flaming.desc=Comment t'as eu ça ?!
+item.aether.ammo.windball.name=Charge de vent
+item.aether.ammo.windball.desc=Des munitions pour un canon à main. Projette une rafale de vent sur une large zone.
+item.aether.projectile.fire.name=Cristal flamboyant
+item.aether.projectile.fire.desc=Projectile cristallisé composé de feu.
+item.aether.projectile.ice.name=Cristal givré
+item.aether.projectile.ice.desc=Projectile cristallisé composé de glace.
+item.aether.projectile.lightning.name=Cristal éléctrisant
+item.aether.projectile.lightning.desc=Projectile cristallisé composé de foudre.
+
+# Seaux
+item.aether.bucket.skyroot.name=Seau en bois éthéré
+item.aether.bucket.skyroot.desc=Utilisé pour contenir divers liquides.
+item.aether.bucket.skyroot.water.name=Seau d'eau en bois éthéré
+item.aether.bucket.skyroot.water.desc=Un seau en bois éthéré rempli d'eau bleue profonde.
+item.aether.bucket.skyroot.milk.name=Seau de lait en bois éthéré
+item.aether.bucket.skyroot.milk.desc=Bon pour les os
+item.aether.bucket.skyroot.poison.name=Seau en bois éthéré de poison en bois éthéré
+item.aether.bucket.skyroot.poison.desc=Un seau en bois éthéré rempli de poison bouillonnant. Ouille !
+item.aether.bucket.skyroot.remedy.name=Seau de remède en bois éthéré
+item.aether.bucket.skyroot.remedy.desc=Un seau en bois éthéré contentant de quoi guérir le poison.
+item.aether.bucket.skyroot.icecream.name=Sceau de crème glacée en bois éthéré
+item.aether.bucket.skyroot.icecream.desc=Une friandise glacée parsemée de pépites de chocolat et d'une cerise !
+
+# Parachutes
+item.aether.parachute.cloud.name=Parachute nuageux
+item.aether.parachute.cloud.desc=Glissez doucement vers le bas une fois activé. Fonctionne si vous tombez hors de l'Éther.
+item.aether.parachute.cloud.gold.name=Parachute nuageux en or
+item.aether.parachute.cloud.gold.desc=Une variante plus durable du parachute nuageux.
+
+# Armures
+item.aether.armor.helmet.zanite.name=Casque en zanite
+item.aether.armor.helmet.zanite.desc=Un casque en zanite brillant.
+item.aether.armor.helmet.gravitite.name=Casque en gravitite
+item.aether.armor.helmet.gravitite.desc=Un puissant casque en gravitite.
+item.aether.armor.helmet.phoenix.name=Casque du phénix
+item.aether.armor.helmet.phoenix.desc=Un casque de phénix flamboyant.
+item.aether.armor.helmet.obsidian.name=Casque en obsidienne
+item.aether.armor.helmet.obsidian.desc=Un casque en obsidienne résistant.
+item.aether.armor.helmet.neptune.name=Casque de neptune
+item.aether.armor.helmet.neptune.desc=Un casque de Neptune foudroyant.
+
+item.aether.armor.chestplate.zanite.name=Plastron en zanite
+item.aether.armor.chestplate.zanite.desc=Un plastron en zanite brillant.
+item.aether.armor.chestplate.gravitite.name=Plastron en gravitite
+item.aether.armor.chestplate.gravitite.desc=Un puissant plastron en gravitite.
+item.aether.armor.chestplate.phoenix.name=Plastron du phénix
+item.aether.armor.chestplate.phoenix.desc=Un plastron du plénix flamboyant.
+item.aether.armor.chestplate.obsidian.name=Plastron en obsidienne
+item.aether.armor.chestplate.obsidian.desc=Un plastron en obsidienne résistant.
+item.aether.armor.chestplate.neptune.name=Plastron de neptune
+item.aether.armor.chestplate.neptune.desc=Un plastron de Neptune foudroyant.
+
+item.aether.armor.leggings.zanite.name=Jambières en zanite
+item.aether.armor.leggings.zanite.desc=Une paire de jambières en zanite brillants.
+item.aether.armor.leggings.gravitite.name=Jambières en gravitite
+item.aether.armor.leggings.gravitite.desc=Une puissante paire de jambières en gravitite.
+item.aether.armor.leggings.phoenix.name=Jambières du phénix 
+item.aether.armor.leggings.phoenix.desc=Une paire de jambières du phénix flamboyants.
+item.aether.armor.leggings.obsidian.name=Jambières en obsidienne
+item.aether.armor.leggings.obsidian.desc=Une paire de jambières en obsidienne résistants.
+item.aether.armor.leggings.neptune.name=Jambières du neptune
+item.aether.armor.leggings.neptune.desc=Une paire de jambières de Neptune foudroyants.
+
+item.aether.armor.boots.zanite.name=Bottes en zanite
+item.aether.armor.boots.zanite.desc=Une paire de bottes en zanite brillants.
+item.aether.armor.boots.gravitite.name=Bottes en gravitite
+item.aether.armor.boots.gravitite.desc=Une puissante paire de bottes en gravitite.
+item.aether.armor.boots.phoenix.name=Bottes du phénix
+item.aether.armor.boots.phoenix.desc=Une paire de bottes du phénix flamboyants.
+item.aether.armor.boots.obsidian.name=Bottes en obsidienne
+item.aether.armor.boots.obsidian.desc=Une paire de bottes en obsidienne résistants.
+item.aether.armor.boots.neptune.name=Bottes de neptune
+item.aether.armor.boots.neptune.desc=Une paire de bottes de Neptune foudroyants.
+
+item.aether.armor.gloves.leather.name=Gants en cuir
+item.aether.armor.gloves.leather.desc=Une paire de gants fabriquées à partir de la peau d'une vache.
+item.aether.armor.gloves.chainmail.name=Gants de mailles
+item.aether.armor.gloves.chainmail.desc=Fabriqué à partir de petites chaînes. Peut être réparé.
+item.aether.armor.gloves.iron.name=Gants en fer
+item.aether.armor.gloves.iron.desc=Une paire de gants en fer robustes.
+item.aether.armor.gloves.gold.name=Gants en or
+item.aether.armor.gloves.gold.desc=Une paire de gants en or étincelants.
+item.aether.armor.gloves.diamond.name=Gants en diamant
+item.aether.armor.gloves.diamond.desc=Une paire de gants en diamant raffinées.
+item.aether.armor.gloves.steel.name=Gants en acier
+item.aether.armor.gloves.steel.desc=Une paire de gants en acier durables.
+item.aether.armor.gloves.zanite.name=Gants en zanite
+item.aether.armor.gloves.zanite.desc=Une paire de gants en zanite brillants.
+item.aether.armor.gloves.gravitite.name=Gants en gravitite
+item.aether.armor.gloves.gravitite.desc=Une puissante paire de gants en gravitite.
+item.aether.armor.gloves.phoenix.name=Gants du phénix
+item.aether.armor.gloves.phoenix.desc=Une paire de gants du phénix flamboyants.
+item.aether.armor.gloves.obsidian.name=Gants en obsidienne
+item.aether.armor.gloves.obsidian.desc=Une paire de gants en obsidienne résistants.
+item.aether.armor.gloves.neptune.name=Gants de neptune
+item.aether.armor.gloves.neptune.desc=Une paire de gants de Neptune foudroyants.
+
+# Objets des dongeons
+item.aether.medal.victory.name=Médaille de la Victoire
+item.aether.medal.victory.desc=Une récompense provenant d'une valkyrie vaincue. Collectionnez-en 10 !
+item.aether.key.bronze.name=Clé du labyrinthe
+item.aether.key.bronze.desc=Provient du Slider, utilisez-le sur un coffre au trésor !
+item.aether.key.silver.name=Clé du temple
+item.aether.key.silver.desc=Provient de la Reine Valkyrie, utilisez-le sur un coffre au trésor !
+item.aether.key.gold.name=Clé du sanctuaire
+item.aether.key.gold.desc=Provient de l'Esprit du Soleil, utilisez-le sur un coffre au trésor !
+
+# Accessoires
+item.aether.armor.talisman.iron.name=Pendentif en fer
+item.aether.armor.talisman.iron.desc=Un pendentif en fer robuste.
+item.aether.armor.talisman.gold.name=Pendentif en or
+item.aether.armor.talisman.gold.desc=Un pendentif en or étincelant.
+item.aether.armor.talisman.zanite.name=Pendentif en zanite
+item.aether.armor.talisman.zanite.desc=Un pendentif en zanite brillant.
+item.aether.armor.talisman.ice.name=Pendentif de glace
+item.aether.armor.talisman.ice.desc=Un pendentif en glace grivré.
+item.aether.armor.talisman.leather.name=Pendentif en cuir
+item.aether.armor.talisman.leather.desc=Un pendentif fabriqué à partir de la peau d'une vache.
+item.aether.armor.talisman.chain.name=Pendentif en mailles
+item.aether.armor.talisman.chain.desc=Un pendentif fabriqué à partir de petites chaînes. Peut être réparé.
+item.aether.armor.talisman.diamond.name=Pendentif en diamant
+item.aether.armor.talisman.diamond.desc=Un pendentif diamant raffiné.
+item.aether.armor.talisman.steel.name=Pendentif en acier
+item.aether.armor.talisman.steel.desc=Un pendentif en acier durable.
+item.aether.armor.talisman.gravitite.name=Pendentif en gravitite
+item.aether.armor.talisman.gravitite.desc=Un pendentif en gravitite puissant.
+item.aether.armor.talisman.bubble.name=Bulle en fer
+item.aether.armor.talisman.bubble.desc=Vous permet de respirer sous éternellement sous l'eau.
+item.aether.armor.talisman.feather.gold.name=Plume d'or
+item.aether.armor.talisman.feather.gold.desc=Permet de descendre en douceur au sol sans se blesser en cas de chute.
+item.aether.armor.talisman.regen.name=Pierre régénératrice
+item.aether.armor.talisman.regen.desc=Régénère votre santé au fil du temps.
+item.aether.armor.shield.repulsion.name=Bouclier réfléchissant
+item.aether.armor.shield.repulsion.desc=Un bouclier pour repousser les projectiles. Peut être porté comme une armure ou tenu à la main.
+
+# Capes
+item.aether.armor.cape.swet.name=Cape de gélatine
+item.aether.armor.cape.swet.desc=Domptez les cubes de slimes et les gélatines avec cette jolie cape.
+item.aether.armor.cape.invisibility.name=Cape d'invisibilité
+item.aether.armor.cape.invisibility.desc=Devenez invisible avec cette cape astucieuse..
+item.aether.armor.cape.agility.name=Cape d'agilité
+item.aether.armor.cape.agility.desc=Grimper les blocs avec cette cape pratique.
+item.aether.armor.cape.white.name=Cape blanche
+item.aether.armor.cape.white.desc=Une cape décorative de couleur blanche.
+item.aether.armor.cape.silver.name=Cape gris clair
+item.aether.armor.cape.silver.desc=Une cape décorative de couleur gris clair.
+item.aether.armor.cape.gray.name=Cape grise
+item.aether.armor.cape.gray.desc=Une cape décorative de couleur grise.
+item.aether.armor.cape.black.name=Cape noire
+item.aether.armor.cape.black.desc=Une cape décorative de couleur noire.
+item.aether.armor.cape.red.name=Cape rouge
+item.aether.armor.cape.red.desc=Une cape décorative de couleur rouge.
+item.aether.armor.cape.yellow.name=Cape jaune
+item.aether.armor.cape.yellow.desc=Une cape décorative de couleur jaune.
+item.aether.armor.cape.orange.name=Cape orange
+item.aether.armor.cape.orange.desc=Une cape décorative de couleur orange.
+item.aether.armor.cape.brown.name=Cape marron
+item.aether.armor.cape.brown.desc=Une cape décorative de couleur brune.
+item.aether.armor.cape.lime.name=Cape vert pomme
+item.aether.armor.cape.lime.desc=Une cape décorative de couleur vert pomme.
+item.aether.armor.cape.green.name=Cape verte
+item.aether.armor.cape.green.desc=Une cape décorative de couleur verte.
+item.aether.armor.cape.cyan.name=Cape cyan
+item.aether.armor.cape.cyan.desc=Une cape décorative de couleur cyan.
+item.aether.armor.cape.blue.name=Cape bleue
+item.aether.armor.cape.blue.desc=Une cape décorative de couleur bleue.
+item.aether.armor.cape.lightblue.name=Cape bleu ciel
+item.aether.armor.cape.lightblue.desc=Une cape décorative de couleur bleu ciel.
+item.aether.armor.cape.purple.name=Cape violette
+item.aether.armor.cape.purple.desc=Une cape décorative de couleur violette.
+item.aether.armor.cape.magenta.name=Cape magenta
+item.aether.armor.cape.magenta.desc=Une cape décorative de couleur magenta.
+item.aether.armor.cape.pink.name=Cape rose
+item.aether.armor.cape.pink.desc=Une cape décorative de couleur rose.
+
+# Divers
+item.aether.egg.moa.blue.name=Œuf de Moa géant bleu
+item.aether.egg.moa.blue.desc=Ponte d'un moa géant bleu, placez-le dans un incubateur.
+item.aether.egg.moa.black.name=Œuf de Moa géant noir
+item.aether.egg.moa.black.desc=Ponte d'un moa géant noir, placez-le dans un incubateur.
+item.aether.egg.moa.white.name=Œuf de Moa géant blanc
+item.aether.egg.moa.white.desc=Ponte d'un moa géant blanc, placez-le dans un incubateur.
+
+item.aether.record.aether.name=Disque de l'Éther
+item.aether.record.aether.desc=§baether
+item.aether.record.morning.name=Disque de l'Éther
+item.aether.record.morning.desc=§8morning
+item.aether.record.dawn.name=Disque de l'Éther
+item.aether.record.dawn.desc=§6dawn
+item.aether.record.nether.name=Disque de l'Éther
+item.aether.record.nether.desc=§knether
+
+item.aether.amber.name=Ambre d'or
+item.aether.amber.desc=Récolté sur un chêne d'or, utile pour fabriquer des fléchettes.
+item.aether.petal.aechor.name=Pétale d'Achour
+item.aether.petal.aechor.desc=Récolté sur une plante Achour, le met préféré du moa géant !
+item.aether.stick.skyroot.name=Bâton en bois éthéré
+item.aether.stick.skyroot.desc=On les trouve à l'extrémité des branches. Ils permettent de fabriquer divers objets d'Éther.
+item.aether.ambrosium.name=Éclat d'Ambrosium
+item.aether.ambrosium.desc=Un carburant magique trouvé dans la pierre sacrée, qui peut être consommé.
+item.aether.zanite.name=Zanite
+item.aether.zanite.desc=Une gemme violette brillante utilisée pour fabriquer des outils.
+item.aether.ore.raw.gravitite.name=Minerai de gravitite brute
+item.aether.ore.raw.gravitite.desc=Un morceau de gravitite non traité. Peut être enchanté en un bloc de gravitite.
+
+item.aether.food.healing.stone.name=Roche vivifiante
+item.aether.food.healing.stone.desc=Une roche enchantée transformée en nourriture, un délice !
+item.aether.food.gummy.blue.name=Bonbons gélifiés bleus
+item.aether.food.gummy.blue.desc=Bonbon bleu savoureux au goût sucré. Soigne énormément !
+item.aether.food.gummy.gold.name=Bonbons gélifiés d'or
+item.aether.food.gummy.gold.desc=Délicieux bonbon doré au goût sucré. Soigne complètement !
+item.aether.food.lifeshard.name=Éclat de vie
+item.aether.food.lifeshard.desc=Augmente de façon permanente votre santé maximale d'un cœur. Formidable !
+item.aether.food.sword.vampire.name=Sang de victimes
+item.aether.food.sword.vampire.desc=Comment t'as eu ça ?!
+
+
+item.aether.lantern.firefly.silver.name=Lanterne de lucioles argentées
+item.aether.lantern.firefly.silver.desc=Un bocal en verre contenant un essaim de lucioles argentées.
+
+# Doors
+item.aether.door.glass.ambrosium.name=Porte en verre de sable accélérant
+item.aether.door.glass.ambrosium.desc=Terrible pour l'esthétique, terrible pour l'intimité.
+item.aether.door.dungeon.bronze.name=Porte du donjon du labyrinthe
+item.aether.door.dungeon.bronze.desc=Chaque labyrinthe en a besoin.
+item.aether.door.dungeon.silver.name=Porte du donjon du temple
+item.aether.door.dungeon.silver.desc=Chaque temple en a besoin.
+item.aether.door.dungeon.gold.name=Porte du donjon du sanctuaire
+item.aether.door.dungeon.gold.desc=Chaque sanctuaire en a besoin.
+item.aether.door.skyroot.name=Porte en bois éthéré
+item.aether.door.skyroot.desc=Chaque maison en a besoin.
+item.aether.door.skyroot.painted.name=Porte en bois éthéré mystérieuse
+item.aether.door.skyroot.painted.desc=Comment t'as eu ça ?!
+item.aether.door.skyroot.painted.white.name=Porte en bois éthéré blanche
+item.aether.door.skyroot.painted.white.desc=Chaque maison en a besoin.
+item.aether.door.skyroot.painted.orange.name=Porte en bois éthéré orange
+item.aether.door.skyroot.painted.orange.desc=Chaque maison en a besoin.
+item.aether.door.skyroot.painted.magenta.name=Porte en bois éthéré magenta
+item.aether.door.skyroot.painted.magenta.desc=Chaque maison en a besoin.
+item.aether.door.skyroot.painted.lightblue.name=Porte en bois éthéré bleu ciel
+item.aether.door.skyroot.painted.lightblue.desc=Chaque maison en a besoin.
+item.aether.door.skyroot.painted.yellow.name=Porte en bois éthéré jaune
+item.aether.door.skyroot.painted.yellow.desc=Chaque maison en a besoin.
+item.aether.door.skyroot.painted.lime.name=Porte en bois éthéré vert pomme
+item.aether.door.skyroot.painted.lime.desc=Chaque maison en a besoin.
+item.aether.door.skyroot.painted.pink.name=Porte en bois éthéré rose
+item.aether.door.skyroot.painted.pink.desc=Chaque maison en a besoin.
+item.aether.door.skyroot.painted.gray.name=Porte en bois éthéré gris
+item.aether.door.skyroot.painted.gray.desc=Chaque maison en a besoin.
+item.aether.door.skyroot.painted.silver.name=Porte en bois éthéré gris clair
+item.aether.door.skyroot.painted.silver.desc=Chaque maison en a besoin.
+item.aether.door.skyroot.painted.cyan.name=Porte en bois éthéré cyan
+item.aether.door.skyroot.painted.cyan.desc=Chaque maison en a besoin.
+item.aether.door.skyroot.painted.purple.name=Porte en bois éthéré violette
+item.aether.door.skyroot.painted.purple.descChaque maison en a besoin.
+item.aether.door.skyroot.painted.blue.name=Porte en bois éthéré bleue
+item.aether.door.skyroot.painted.blue.desc=Chaque maison en a besoin.
+item.aether.door.skyroot.painted.brown.name=Porte en bois éthéré marron
+item.aether.door.skyroot.painted.brown.desc=Chaque maison en a besoin.
+item.aether.door.skyroot.painted.green.name=Porte en bois éthéré verte
+item.aether.door.skyroot.painted.green.desc=Chaque maison en a besoin.
+item.aether.door.skyroot.painted.red.name=Porte en bois éthéré rouge
+item.aether.door.skyroot.painted.red.desc=Chaque maison en a besoin.
+item.aether.door.skyroot.painted.black.name=Porte en bois éthéré noire
+item.aether.door.skyroot.painted.black.desc=Chaque maison en a besoin.
+
+# Pancartes
+item.aether.sign.skyroot.name=Pancarte en bois éthéré
+item.aether.sign.skyroot.desc=Marquez votre territoire ou écrivez un message.
+item.aether.sign.skyroot.painted.name=Pancarte en bois éthéré mystérieuse
+item.aether.sign.skyroot.painted.desc=Comment t'as eu ça ?!
+item.aether.sign.skyroot.painted.white.name=Pancarte en bois éthéré blanche
+item.aether.sign.skyroot.painted.white.desc=Marquez votre territoire ou écrivez un message.
+item.aether.sign.skyroot.painted.orange.name=Pancarte en bois éthéré orange
+item.aether.sign.skyroot.painted.orange.desc=Marquez votre territoire ou écrivez un message.
+item.aether.sign.skyroot.painted.magenta.name=Pancarte en bois éthéré magenta
+item.aether.sign.skyroot.painted.magenta.desc=Marquez votre territoire ou écrivez un message.
+item.aether.sign.skyroot.painted.lightblue.name=Pancarte en bois éthéré bleu ciel
+item.aether.sign.skyroot.painted.lightblue.desc=Marquez votre territoire ou écrivez un message.
+item.aether.sign.skyroot.painted.yellow.name=Pancarte en bois éthéré jaune
+item.aether.sign.skyroot.painted.yellow.desc=Marquez votre territoire ou écrivez un message.
+item.aether.sign.skyroot.painted.lime.name=Pancarte en bois éthéré vert pomme
+item.aether.sign.skyroot.painted.lime.desc=Marquez votre territoire ou écrivez un message.
+item.aether.sign.skyroot.painted.pink.name=Pancarte en bois éthéré rose
+item.aether.sign.skyroot.painted.pink.desc=Marquez votre territoire ou écrivez un message.
+item.aether.sign.skyroot.painted.gray.name=Pancarte en bois éthéré grise
+item.aether.sign.skyroot.painted.gray.desc=Marquez votre territoire ou écrivez un message.
+item.aether.sign.skyroot.painted.silver.name=Pancarte en bois éthéré gris clair
+item.aether.sign.skyroot.painted.silver.desc=Marquez votre territoire ou écrivez un message.
+item.aether.sign.skyroot.painted.cyan.name=Pancarte en bois éthéré cyan
+item.aether.sign.skyroot.painted.cyan.desc=Marquez votre territoire ou écrivez un message.
+item.aether.sign.skyroot.painted.purple.name=Pancarte en bois éthéré violette
+item.aether.sign.skyroot.painted.purple.desc=Marquez votre territoire ou écrivez un message.
+item.aether.sign.skyroot.painted.blue.name=Pancarte en bois éthéré bleue
+item.aether.sign.skyroot.painted.blue.desc=Marquez votre territoire ou écrivez un message.
+item.aether.sign.skyroot.painted.brown.name=Pancarte en bois éthéré marron
+item.aether.sign.skyroot.painted.brown.desc=Marquez votre territoire ou écrivez un message.
+item.aether.sign.skyroot.painted.green.name=Pancarte en bois éthéré verte
+item.aether.sign.skyroot.painted.green.desc=Marquez votre territoire ou écrivez un message.
+item.aether.sign.skyroot.painted.red.name=Pancarte en bois éthéré rouge
+item.aether.sign.skyroot.painted.red.desc=Marquez votre territoire ou écrivez un message.
+item.aether.sign.skyroot.painted.black.name=Pancarte en bois éthéré noire
+item.aether.sign.skyroot.painted.black.desc=Marquez votre territoire ou écrivez un message.

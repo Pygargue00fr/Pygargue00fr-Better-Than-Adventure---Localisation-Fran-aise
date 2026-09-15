@@ -1,0 +1,18 @@
+aether.menu.boss_bar.preview_name=John Doe, aperçu du rendu à trois têtes
+
+aether.gui.incubator.title=Incubateur
+aether.gui.enchanter.title=Enchanteur
+aether.gui.freezer.title=Congéleur
+
+aether.gui.un_missing_warn.body=§e'%s'§r N'à pas de données §lUselessNumerical§r§r\n\n\n Le chargement de ce monde risque d'entraîner une corruption !\n Veuillez réinstaller Better with Aether 0.5.1, puis rechargez ensuite le monde avec §lUselessNumerical§r installé.
+aether.gui.un_missing_warn.proceed_0=Jouer dans ce monde
+aether.gui.un_missing_warn.proceed_1=Oui, jouer dans ce monde !
+aether.gui.un_missing_warn.proceed_2=§eJE SOUHAITE CONTINUER§r
+aether.gui.un_missing_warn.proceed_3=Continuer
+
+model.category.entity.sheepuff.slider.color=Couleur : %s
+model.category.entity.sheepuff.slider.wool_state=Status : %s
+
+model.category.entity.sentry.slider.state=Status : %s
+
+model.category.entity.slider.slider.state=Status : %s

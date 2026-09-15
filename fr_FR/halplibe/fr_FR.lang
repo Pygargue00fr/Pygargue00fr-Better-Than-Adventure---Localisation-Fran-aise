@@ -1,0 +1,6 @@
+halplibe.recoveryMode=Mode de récupération
+halplibe.recoveryMode.text=Le mode de récupération désactive certaines parties du jeu pour éviter les boucles de plantage.
+halplibe.recoveryMode.text2=Les mesures suivantes ont été prises :
+halplibe.recoveryMode.action1=Mise à jour des entités de bloc désactivée.
+halplibe.recoveryMode.action2=Rendu des entités de bloc désactivé.
+halplibe.recoveryMode.text3=Cliquez n'importe où en dehors de cette fenêtre contextuelle pour la fermer.

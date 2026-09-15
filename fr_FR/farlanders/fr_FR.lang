@@ -1,0 +1,19 @@
+# ITEM #
+item.farlanders.lens.name=Lentille de voyageur
+item.farlanders.lens.desc=Un œil fin et lumineux. Vous jureriez qu'il a cligné des yeux...
+item.farlanders.pearl.name=Perle de voyageur
+item.farlanders.pearl.desc=Une petite perle noire. Elle a un léger reflet bleuté.
+item.farlanders.armor.helmet.goggles.name=Lunettes
+item.farlanders.armor.helmet.goggles.desc=Une paire de lunettes d'or, dotées de lentilles lumineuses, permet de voir dans le noir et de repérer les créatures.
+
+# TILE #
+tile.farlanders.smoker.name=Fumoire
+tile.farlanders.smoker.desc=Crée une fumée inoffensive qui se dissipe dans le ciel. Sans danger.
+
+# SUBTITLES #
+subtitles.mob.farlander.slip = Mouvement de voyageur  
+subtitles.mob.farlander.whispering = Chuchotement de voyageur
+
+# GUIDEBOOK #
+farlanders.guidebook.section.mob.farlander.name = Voyageur
+farlanders.guidebook.section.mob.farlander.desc = Leurs lentilles peuvent servir à fabriquer des lunettes permettant de voir à travers les murs, et leurs perles peuvent être utilisées pour le transport et la production de fumée.

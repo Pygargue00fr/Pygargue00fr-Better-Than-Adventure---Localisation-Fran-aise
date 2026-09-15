@@ -1,0 +1,13 @@
+#Effects
+effect.aether.poison.name=Poison
+effect.aether.remedy.name=Remède
+
+#Music
+aether_tune=Aether Tune
+a_morning_wish=A Morning Wish
+ascending_dawn=Ascending Dawn
+nether_menu=Nether Menu
+
+aether.download_resources=Téléchargement des ressources pour l'Éther... [%d | %d]
+
+

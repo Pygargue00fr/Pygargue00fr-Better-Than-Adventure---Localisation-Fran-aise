@@ -1,0 +1,12 @@
+gui.options.page.e4bta_voice.title=Voix e4BTA
+gui.options.page.e4bta_voice.category.voice=Chat vocal
+gui.options.page.e4bta_voice.category.testing=Tests et diagnostics
+gui.options.page.e4bta_voice.test=Test du microphone (5 secondes)
+gui.options.page.e4bta_voice.diagnostics=Ouvrir les diagnostics détaillés...
+options.e4bta_voice.enabled=Chat vocal
+options.e4bta_voice.pushToTalk=Maintenir pour parler
+options.e4bta_voice.range=Portée du chat de proximité
+options.e4bta_voice.volume=Volume de lecture
+e4bta_voice.key.pushToTalk=Touche pour parler
+e4bta_voice.key.mute=Mise en sourdine de la touche microphone
+e4bta_voice.key.openSettings=Ouvrir les paramètres vocaux

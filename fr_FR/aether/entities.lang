@@ -1,0 +1,155 @@
+# Death messages
+
+# Passive
+guidebook.section.mob.aerbunny.name.death_message = ...Comment cela a-t-il pu arriver ?
+
+# Hostile
+guidebook.section.mob.swet.name.death_message = [PLAYER] à été gélifié.
+guidebook.section.mob.swet.gold.name.death_message = [PLAYER] à été transformé en or.
+guidebook.section.mob.cockatrice.name.death_message = [PLAYER] was turned into a pincushion.
+guidebook.section.mob.aechorplant.name.death_message = [PLAYER] renifla une fleur de trop près.
+guidebook.section.mob.whirly.name.death_message = [PLAYER] a été emporté par une rafale de vent.
+guidebook.section.mob.mimic.name.death_message = <[PLAYER]> remercie dark souls.
+guidebook.section.mob.sentry.name.death_message = [PLAYER] a marché sur une mine vivante.
+guidebook.section.mob.valkyrie.name.death_message = [PLAYER] a perdu un duel honorable.
+guidebook.section.mob.fireminion.name.death_message = [PLAYER] à étreint une flamme.
+
+# Bosses
+guidebook.section.mob.slider.name.death_message_0 = [PLAYER] à été écrabouillé par le puissant [BOSS] !
+guidebook.section.mob.slider.name.death_message_1 = [PLAYER] a été miné par le puissant [BOSS] !
+guidebook.section.mob.slider.name.death_message_2 = [PLAYER] a été secoué par le puissant [BOSS] !
+guidebook.section.mob.slider.name.death_message_3 = [PLAYER] a été bringuebalé par le puissant [BOSS] !
+guidebook.section.mob.slider.name.death_message_4 = [PLAYER] a été aplati comme une crêpe par [BOSS] !
+guidebook.section.mob.slider.name.death_message_5 = [PLAYER] a été propulsé à travers la salle par le puissant [BOSS] !
+guidebook.section.mob.slider.name.death_message_6 = [PLAYER] a été effacé de l'existence par le puissant [BOSS] !
+guidebook.section.mob.slider.name.death_message_7 = [PLAYER] s'est retrouvé(e) coincé(e) entre les sentinelles et le puissant [BOSS] !
+guidebook.section.mob.slider.name.death_message_8 = [PLAYER] a été servi sur un plateau d'argent au puissant [BOSS] !
+
+guidebook.section.mob.valkyrie.queen.name.death_message_0 = [PLAYER] a été impressioné. Ce qui ne fut point le cas de [BOSS] !
+guidebook.section.mob.valkyrie.queen.name.death_message_1 = [PLAYER] S'est bien battu. [BOSS] était bien meilleur !
+guidebook.section.mob.valkyrie.queen.name.death_message_2 = [PLAYER] à connu la défaite. [BOSS] ne connait point ce mot !
+guidebook.section.mob.valkyrie.queen.name.death_message_3 = [PLAYER] à lève sa lame en signe de défit. [BOSS] lèva le poing de la victoire !
+guidebook.section.mob.valkyrie.queen.name.death_message_4 = [PLAYER] à reçu la foudre de plein fouet. [BOSS] à une voix foudroyante !
+guidebook.section.mob.valkyrie.queen.name.death_message_5 = [PLAYER] frappe fort. [BOSS] frappe encore plus fort !
+guidebook.section.mob.valkyrie.queen.name.death_message_6 = [PLAYER] à perdu le fil. [BOSS] a couper les liens !
+guidebook.section.mob.valkyrie.queen.name.death_message_7 = [PLAYER] a offert des médailles. [BOSS] en redemande encore !
+guidebook.section.mob.valkyrie.queen.name.death_message_8 = [PLAYER] se croyait digne. [BOSS] lui à prouvé le contraire !
+guidebook.section.mob.valkyrie.queen.name.death_message.projectile_lightning = [PLAYER] était sous le choc. [BOSS] s'étouffe de rire !
+
+guidebook.section.mob.sunspirit.name.death_message_0 = [PLAYER] a ignoré les étincelles qui dansaient autour de moi ! Moi, [BOSS], je l'avai prévenu(e !
+guidebook.section.mob.sunspirit.name.death_message_1 = [PLAYER] s'est jeté(e) imprudemment dans mes flammes ! Moi, [BOSS], je l'avai prévenu(e) !
+guidebook.section.mob.sunspirit.name.death_message_2 = [PLAYER] pensait pouvoir supporter la chaleur ! Moi, [BOSS], je l'aurai prévenu(e) !
+guidebook.section.mob.sunspirit.name.death_message_3 = [PLAYER] fonça tête baissé vers le danger. Moi, [BOSS], je l'avai prévenu(e) !
+guidebook.section.mob.sunspirit.name.death_message_4 = [PLAYER] a ignioré mon avertissement. Moi, [BOSS], je l'avai prévenu(e) !
+guidebook.section.mob.sunspirit.name.death_message_5 = [PLAYER] a sous-estimé l'incendie ! Moi, [BOSS], je l'avai prévenu(e) !
+guidebook.section.mob.sunspirit.name.death_message_6 = [PLAYER] à joué avec le feu. Moi, [BOSS], je l'avai prévenu(e) !
+guidebook.section.mob.sunspirit.name.death_message_7 = [PLAYER] à souhaité décrocher le soleil ! Moi, [BOSS], je l'avai prévenu(e) !
+guidebook.section.mob.sunspirit.name.death_message_8 = [PLAYER] à été dégager d'ici vites fait. Moi, [BOSS], je l'avai prévenu(e !!
+guidebook.section.mob.sunspirit.name.death_message.projectile_fire = [PLAYER] s'est immolé(e) ! Moi, [BOSS], je l'avai prévenu(e) !
+guidebook.section.mob.sunspirit.name.death_message.projectile_ice = [PLAYER] a relevé le défi du seau d'eau glacée ! Moi, [BOSS], je l'avai prévenu(e) !
+
+
+# Valkyrie Interact
+valkyrie.show_medal.1=Voyez-vous çela... c'est une belle collection de médailles que vous avez là...
+valkyrie.show_medal.2=C'est impressionnant, mais tu ne me vaincras pas.
+valkyrie.show_medal.3=Tu pense savoir te battre ? Eh bien, montre-moi ce que tu vaux !
+
+valkyrie.interact.1=Quoi ? Tu veux te battre ? Oh, qu'il est mignon ce petit humain !
+valkyrie.interact.2=Vous n'allez tout de même pas affronter une grande et courageuse Valkyrie ?
+valkyrie.interact.3=Je ne pense pas que tu devrais me déranger, tu risques de te blesser gravement.
+
+valkyrie.duel_start.1=Je ne vais pas y aller de main morte avec toi !
+valkyrie.duel_start.2=Tu vas t'en mordre les doigts !
+valkyrie.duel_start.3=Tu vas voir ce que tu mérite !
+valkyrie.submit.1=Prends ta médaille, tu l'as bien méritée.
+valkyrie.submit.2=Ne tente pas le diable et prend ta médaille.
+valkyrie.submit.3=Le jour est venu, prenez cette médaille.
+valkyrie.attacked.1=Vous voulez une médaille ? Il n'y a pas de médailles de participation.
+valkyrie.attacked.2=Tu es beaucoup plus mignon vivant(e), tu sais ?
+valkyrie.attacked.3=Un autre jour peut-être.
+
+# color codes pls don't remove or back it up I cannot for the love of god remember what §e is!
+#WHITE               -> 0
+#ORANGE              -> 1
+#MAGENTA             -> 2
+#LIGHT_BLUE          -> 3
+#YELLOW              -> 4
+#LIME                -> 5
+#PINK                -> 6
+#GRAY                -> 7
+#LIGHT_GRAY          -> 8
+#CYAN                -> 9
+#PURPLE              -> a
+#BLUE                -> b
+#BROWN               -> c
+#GREEN               -> d
+#RED                 -> e
+#BLACK               -> f
+#OBFUSCATED          -> g
+#BOLD                -> h
+#STRIKETHROUGH       -> i
+#UNDERLINE           -> j
+#ITALIC              -> k
+#RESET               -> l
+
+# Bosses
+aether.entity.boss_slider.id=boss_slider
+guidebook.section.mob.slider.name.title=%s, Le Glisseur
+
+boss_slider.hit_fail=Hmm. Peut-être devrais-je l'attaquer avec une pioche ?
+
+aether.entity.boss_valkyrie.id=boss_valkyrie
+guidebook.section.mob.valkyrie.queen.name.title=%s, La Reine des Valkyries
+
+boss_valkyrie.duel_start = Très bien, attaquez-moi quand vous voudrez commencer.
+boss_valkyrie.condition = Montrez-moi 10 médailles de victoire, et je vous affronterai.
+boss_valkyrie.duel = Si vous souhaitez me défier, frappez à tout moment.
+boss_valkyrie.peaceful = Je n'ai pas de temps à consacrer pour un humain aussi pathétique.
+boss_valkyrie.dies = Vous êtes vraiment... un puissant guerrier...
+boss_valkyrie.weakling = Désolé, je ne me bats pas avec les faibles.
+boss_valkyrie.fight_weaklings = Essayez d'abord de vaincre des valkyries plus faibles.
+boss_valkyrie.collect_medals = Récupérez 10 médaillons avant d'essayer cela.
+boss_valkyrie.target = Voici ton ultime combat !
+
+aether.entity.boss_sunspirit.id=boss_sunspirit
+guidebook.section.mob.sunspirit.name.title=%s, L'Esprit du Soleil
+
+boss_sunspirit.chat_0= Vous devez être une âme courageuse pour être entré dans cette chambre.
+boss_sunspirit.chat_1= Disparaissez, humain, vous n'avez pas votre place ici.
+boss_sunspirit.chat_2= Ta présence m'indispose. Ne crains-tu pas mon aura ardente ?
+boss_sunspirit.chat_3= Je n'ai rien à t'offrir, imbécile. Laisse-moi tranquille.
+boss_sunspirit.chat_4= Peut-être êtes-vous ignorant. Voulez-vous savoir qui je suis ?
+boss_sunspirit.chat_5= Je suis un esprit du soleil, l'incarnation de la lumière éternelle de l'Éther.
+boss_sunspirit.chat_5_1= Tant que je vivrais, le soleil ne se couchera jamais sur ce monde.
+boss_sunspirit.chat_6= Mon corps brûle de la fureur de mille créatures.
+boss_sunspirit.chat_6_1= Aucun mortel, héroique ou acariâtre soit-t'il, ne peut m'égratigner. Vous ne faites pas exception.
+boss_sunspirit.chat_7= Vous souhaiter défier la puissance du soleil ? Vous avez perdu la raison !
+boss_sunspirit.chat_7_1= Ne m'insultez pas d'avantage, sinon vous subirez ma colère.
+boss_sunspirit.chat_8= Ceci est votre dernier avertissement. Partez imédiatement, ou préparez-vous à rôtir.
+boss_sunspirit.fight.start= Comme vous voudrez, votre mort sera lente et douloureuse.
+boss_sunspirit.fight.repeat= Votre mort précédente n'a-t-elle pas satisfait votre curiosité, humain ?
+boss_sunspirit.fight.repeat.again= Ainsi nous nous retrouvons ! Cette fois, vous périrez !
+boss_sunspirit.dies= Quelle froideur… serait-ce… la douleur ?
+
+# Misc
+aether.entity.arrow_flaming.death_message.suicide = [PLAYER] s'est embroché(e) lui-même/elle-même.
+aether.entity.dart.death_message.suicide = [PLAYER] est devenu(e) un coussin à épingles.
+aether.entity.dart_enchanted.death_message.suicide = [PLAYER] a désespérément essayé de se soigner.
+aether.entity.hammer_head.death_message.suicide = [PLAYER] [JOUEUR] s'est(e) fait(e) martelé(e).
+aether.entity.knife_lightning.death_message.suicide = [PLAYER] a découvert l'électricité.
+aether.entity.needle.death_message.suicide = [PLAYER][JOUEUR] a été touché au talon d'Achille.
+
+aether.entity.arrow_flaming.death_message.player = [KILLER] a grillé [PLAYER] au barbecue.
+aether.entity.dart.death_message.player = [KILLER] a touché [PLAYER] en pleine figure.
+aether.entity.dart_enchanted.death_message.player = [KILLER] a guéri [PLAYER] à mort.
+aether.entity.hammer_head.death_message.player = [KILLER] a montré [PLAYER] où se trouvait le marteau.
+aether.entity.knife_lightning.death_message.player = [KILLER] à fait fondre [PLAYER].
+aether.entity.needle.death_message.player = [KILLER] a abusé de l'acupuncture sur [PLAYER].
+
+# currently unused
+aether.entity.projectile_fire.death_message.suicide = [PLAYER] s'est immolé(e) dans les flammes !
+aether.entity.projectile_ice.death_message.suicide = [PLAYER] a relevé le défi du seau d'eau glacée !
+aether.entity.projectile_lightning.death_message.suicide = [PLAYER] a été foudroyé.
+aether.entity.projectile_fire.death_message.player = [KILLER] à joué avec le feu. [PLAYER] s'est immolé.
+aether.entity.projectile_ice.death_message.player = [KILLER] a gèlé [PLAYER] sur place !
+aether.entity.projectile_lightning.death_message.player = [KILLER] a un pouvoir illimité ! [PLAYER] à été foudroyé.

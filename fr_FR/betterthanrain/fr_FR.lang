@@ -1,0 +1,42 @@
+subtitles.btr.test=Tester le son
+subtitles.btr.rain_sounds_metal=Pluie sur le métal
+subtitles.btr.rain_sounds_metal_muffled=Pluie étouffée sur le métal
+subtitles.btr.rain_sounds_metal_thin=Rain on Thin Metal
+subtitles.btr.rain_sounds_fabric=Pluie sur le tissu
+subtitles.btr.rain_sounds_fabric_muffled=Pluie étouffée sur le tissu
+subtitles.btr.rain_sounds_fabric_thin=Pluie sur le tissu fin
+subtitles.btr.rain_sounds_glass=Pluie sur le verre
+subtitles.btr.rain_sounds_glass_muffled=Pluie étouffée sur le verre
+subtitles.btr.rain_sounds_foliage=Pluie sur le feuillage
+subtitles.btr.rain_sounds_water=Pluie sur l'eau
+subtitles.btr.rain_sounds_stone=Pluie sur la roche
+subtitles.btr.rain_sounds_stone_muffled=Pluie étouffée sur la roche
+subtitles.btr.rain_sounds_wood_muffled=Pluie étouffée sur le bois
+subtitles.btr.rain_sounds_plastic=Pluie sur le plastique
+subtitles.btr.rain_sounds_amethyst=Pluie sur l'améthyste
+subtitles.btr.rain_sounds_noteblock=Pluie sur un bloc musical
+subtitles.btr.rain_sounds_lava=Pluie sur la lave
+subtitles.btr.thunder_close=Tonnerre proche
+subtitles.btr.thunder_distant=Tonnerre lointain
+subtitles.btr.rain_light=Pluie légère
+subtitles.btr.rain_medium=Pluie moyenne
+
+# Settings page
+betterthanrain.options.title=Better than Rain
+betterthanrain.options.master=Volume général
+betterthanrain.options.materials=Volumes des matériaux
+
+# Volume settings (with options. prefix for BTA)
+options.betterthanrain.masterRainVolume=Volume général de la pluie
+options.betterthanrain.muffledVolume=Volume étouffé
+options.betterthanrain.useWeatherSounds=Utiliser la catégorie environnement
+options.betterthanrain.metalRainVolume=Volume de la pluie sur le métal
+options.betterthanrain.glassRainVolume=Volume de la pluie sur le verre
+options.betterthanrain.fabricRainVolume=Volume de la pluie sur le tissu
+options.betterthanrain.stoneRainVolume=Volume de la pluie sur la roche
+options.betterthanrain.woodRainVolume=Volume de la pluie sur le bois
+options.betterthanrain.plasticRainVolume=Volume de la pluie sur le plastique
+options.betterthanrain.lavaRainVolume=Volume de la pluie sur la lave
+options.betterthanrain.foliageRainVolume=Volume de la pluie sur le feuillage
+options.betterthanrain.waterRainVolume=Volume de la pluie sur l'eau
+options.betterthanrain.noteblockRainVolume=Volume de la pluie sur les blocs musicaux

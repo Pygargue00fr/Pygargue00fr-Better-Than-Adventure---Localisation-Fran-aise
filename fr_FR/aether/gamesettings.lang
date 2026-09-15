@@ -1,0 +1,4 @@
+gui.options.page.aether.title=Éther
+gui.options.page.aether.category.user_interface=Interface utilisateur
+options.aether.flickAccessoryIcons=Parcourir l'inventaire des pendentifs
+options.aether.flickAccessorySpeed=Vitesse du parcours de l'inventaire des pendentifs

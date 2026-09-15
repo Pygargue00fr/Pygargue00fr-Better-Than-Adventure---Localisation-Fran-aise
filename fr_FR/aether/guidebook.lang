@@ -1,0 +1,78 @@
+aether.guidebook.section.enchanter=Enchanteur
+aether.guidebook.section.freezer=Congéleur
+aether.guidebook.section.incubator=Incubateur
+
+aether.guidebook.section.incubator.undiscovered=On ignore comment cette créature éclot.
+aether.guidebook.section.incubator.chicken=Qui est apparu en premier, l'œuf ou la poule ?
+aether.guidebook.section.incubator.slime=Attention, ils en existe différentes tailles.
+
+aether.guidebook.section.incubator.moa_blue=Une monture robuste capable d'effectuer 3 sauts en plein vol.
+aether.guidebook.section.incubator.moa_white=Une monture forte capable d'effectuer 5 sauts en plein vol.
+aether.guidebook.section.incubator.moa_black=Une monture puissante capable d'effectuer 7 sauts en plein vol.
+
+aether.guidebook.section.incubator.swet_gold=Une magnifique créature gélatineuse hostile.
+aether.guidebook.section.incubator.swet=Une créature gélatineuse hostile.
+
+guidebook.section.mob.phyg.name=Cochon éthérique
+guidebook.section.mob.phyg.desc=Les cochons éthériques sont une source commune mais précieuse de nourriture, de plumes et de moyen de transport. Ils sont présents partout dans l'Éther.
+
+guidebook.section.mob.sheepuff.name=Mouflon éthérique
+guidebook.section.mob.sheepuff.desc=Les mouflons éthériques sont une source abondantes de laine, et sont bien plus doux et rebondissant. Ils sont présents partout dans l'Éther.
+
+guidebook.section.mob.phow.name=Vache éthérique
+guidebook.section.mob.phow.desc=Les vaches éthériques sont une source précieuse de cuir, de plumes et de moyens de transport. Ils sont présents partout dans l'Éther.
+
+guidebook.section.mob.aerbunny.name=Lapin céleste
+guidebook.section.mob.aerbunny.desc=De petites sources de fils pratiques et mignonnes, ils peuvent être ramassées et portées sur la tête pour de meilleurs sauts. Ils sont présents partout dans l'Éther.
+
+guidebook.section.mob.moa.blue.name=Moa géant bleu
+guidebook.section.mob.moa.blue.desc=Oiseau doux et docile, pouvant être sellé et monté. Les variantes bleues possèdent 3 sauts en l'air.
+
+guidebook.section.mob.moa.white.name=Moa géant blac
+guidebook.section.mob.moa.white.desc=Oiseau doux et docile, pouvant être sellé et monté. Les variétés blanches possèdent 5 sauts en l'air.
+
+guidebook.section.mob.moa.black.name=Moa géant noir
+guidebook.section.mob.moa.black.desc=Oiseau doux et docile, pouvant être sellé et monté. Les variétés noires possèdent 7 sauts en l'air.
+
+guidebook.section.mob.aerwhale.name=Baleine céleste
+guidebook.section.mob.aerwhale.desc=Les baleines célestes sont des créatures anciennes et paisibles, connues pour planer dans les cieux.
+
+guidebook.section.mob.swet.name=Gélatine bleue
+guidebook.section.mob.swet.desc=Les gélatines bleus peuvent être dangereux s'ils parviennent à vous attraper. Ils sont présents, de façon assez rare, n'importe où dans l'Éther.
+
+guidebook.section.mob.swet.gold.name=Gélatine d'or
+guidebook.section.mob.swet.gold.desc=Les gélatines d'or peuvent être difficiles à gérer si vous vous laissez attraper. Ils sont présents, de façon assez rare, n'importe où dans l'Éther.
+
+guidebook.section.mob.cockatrice.name=Cockatrice
+guidebook.section.mob.cockatrice.desc=Oiseau agressif et hostile que l'on trouve dans l'obscurité. Il projette des flêchettes empoisonnées par la bouche.
+
+guidebook.section.mob.aechorplant.name=Plante Achour
+guidebook.section.mob.aechorplant.desc=Les plantes Achour constituent une faune unique que l'on rencontre fréquemment dans l'Éther. Elles projettent des aiguilles venimeuses pour dissuader toute créature de s'approcher.
+
+guidebook.section.mob.zephyr.name=Zéphyr
+guidebook.section.mob.zephyr.desc=Nuisances communes que l'on trouve partout dans l'Éther, elles crachent des boules de neige qui vous envoient valser.
+
+guidebook.section.mob.whirly.name=Tourbillon
+guidebook.section.mob.whirly.desc=Créature rare rencontrée dans l'Éther, elle lance des objets mais peut se mettre en colère.
+
+guidebook.section.mob.mimic.name=Imitateur
+guidebook.section.mob.mimic.desc=Un piège emblématique dans lequel tombent souvent les voyageurs, que l'on trouve dans les donjons d'argent, mêlé aux coffres ordinaires.
+
+guidebook.section.mob.sentry.name=Sentinelle
+guidebook.section.mob.sentry.desc=Des automates enfouis dans le sol de donjons en bronze surgissent lorsqu'on marche dessus.
+
+guidebook.section.mob.valkyrie.name=Valkyrie
+guidebook.section.mob.valkyrie.desc=Une magnifique soldate capable de se téléporter autour de vous, que l'on trouve errant dans des donjons d'argent.
+
+guidebook.section.mob.fireminion.name=Suppôt flamboyant
+guidebook.section.mob.fireminion.desc=Une manifestation invoquée par l'esprit du soleil, rapide et mortelle.
+
+guidebook.section.mob.slider.name=Glisseur
+guidebook.section.mob.slider.desc=Un boss massif et robuste qui ne peut être vaincu qu'à l'aide d'un outil de mineur, que l'on trouve dans les donjons de bronze.
+
+guidebook.section.mob.valkyrie.queen.name=Reine Valkyrie
+guidebook.section.mob.valkyrie.queen.desc=Une guerrière élégante capable de se téléporter et de lancer des éclairs, que l'on trouve dans les donjons d'argent.
+
+guidebook.section.mob.sunspirit.name=Esprit du Soleil
+guidebook.section.mob.sunspirit.desc=Un dieu de feu dévastateur qui maîtrise le feu et la glace, que l'on trouve dans les donjons d'or.
+
