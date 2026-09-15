@@ -14,6 +14,6 @@ Mods inclus :
 -e4BTA
 -e4BTA_voice
 
-Téléchargement : Assurez-vous d'avoir un fichier zip fr_FR, renommez le si nécessaire sinon vous risquez un plantage au lancement du jeu.
+Téléchargement : Assurez-vous d'avoir un fichier zip intitulé fr_FR, renommez le si nécessaire sinon vous risquez un plantage au lancement du jeu.
 
 Crédits :  "RatonGuerrier", "Vazanoir", "Prolyfic", "Pygargue00fr", "Voxy"
